@@ -1,5 +1,7 @@
 # AWS Dynamic Creds Provider for TFC
 
+Based on the examples from https://github.com/hashicorp/terraform-dynamic-credentials-setup-examples/tree/main/aws
+
 Creates an OIDC provider in AWS for use with Terraform Dynamic Creds.
 
 Or, if one already exists, find and return the ARN.
