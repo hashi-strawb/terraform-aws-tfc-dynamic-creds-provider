@@ -9,7 +9,7 @@ Or, if one already exists, find and return the ARN.
 
 Note, this only creates the OIDC provider, not the required per-workspace IAM roles.
 
-For that part, see https://github.com/hashi-strawb/terraform-aws-tfc-dynamic-creds-workspace
+For that part, see https://registry.terraform.io/modules/hashi-strawb/tfc-dynamic-creds-workspace/aws/latest
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
